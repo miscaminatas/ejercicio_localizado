@@ -1,0 +1,6 @@
+{
+    "name": "Close Grip Barbell Bench Press",
+    "identifier": "close_grip_barbell_bench_press",
+    "muscles_worked": ["triceps", "chest", "shoulders"],
+    "description": "A bench press variation that works your triceps more due to the narrower grip."
+}
