@@ -1,6 +1,6 @@
 {
     "name": "Flat Barbell Chest Press",
     "identifier": "flat_barbell_chest_press",
-    "muscles_worked": ["chest", "shoulders", "triceps"],
-    "description": "A basic, but effective exercise for building your chest. You can activate your triceps more by narrowing your grip"
+    "muscles_worked": ["chest", "triceps", "shoulders"],
+    "description": "A basic, but effective exercise for building your chest. You can activate your triceps more by narrowing your grip."
 }
