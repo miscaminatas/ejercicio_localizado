@@ -2,6 +2,5 @@
     "name": "Diamond Push Up",
     "identifier": "diamond_push_up",
     "description": "A tricep-focused push up variation.",
-    "muscles_worked": ["triceps", "chest", "shoulders"],
-    "image_url": "https://images.squarespace-cdn.com/content/v1/55e406fbe4b0b03c5e7543ae/1588273690844-UOA03R2ONUM5487XWAOV/02831101-Diamond-Push-up_Upper-Arms_medium.png"
+    "muscles_worked": ["triceps", "chest", "shoulders"]
 }
