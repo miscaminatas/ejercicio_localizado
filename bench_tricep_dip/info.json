@@ -1,0 +1,6 @@
+{
+    "name": "Bench Tricep Dip",
+    "identifier": "bench_tricep_dip",
+    "muscles_worked": ["triceps", "chest", "shoulders", "abs"],
+    "description": "Compound bodyweight exercise focusing on triceps but also chest and shoulders."
+}
